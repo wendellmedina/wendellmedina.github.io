@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Wendell Medina
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself. 
+A technologist, endurance athlete, adventurer, and single-malt enthusiast.
 
 ### Contact me
 
